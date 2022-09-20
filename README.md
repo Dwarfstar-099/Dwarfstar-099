@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/dwarfstar99
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm interested in building scalable products
--->
+
