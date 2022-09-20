@@ -3,7 +3,7 @@
 <!--
 **Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
-I'm Kumar Gourav who is actively looking for an opportunity to scale Blogspace - An innovative way to collaborate
+I'm <b>Kumar Gourav<b> who is actively looking for an opportunity to scale <b>Blogspace - An innovative way to collaborate</b> <br>
 🔭 I’m currently working on Blogspace <br>
 🌱 I’m currently learning Javascript  <br>
 👯 I’m looking to collaborate on ideas that could solve college student's problems  <br>
