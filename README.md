@@ -44,10 +44,10 @@ width="40px" height="40px"></a> &nbsp&nbsp
  width="150" height=</a></span>
 
 <li><h2>GitHub Stats : </h2></li>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Dwarfstar-099&show_icons=true&theme=radical"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Dwarfstar-099&showicons=true&theme=radical"></a>
  
-<li><h2> Most Languages used : </h2></li>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarfstar-099"></a>
+<li><h2> Most Used Languages: </h2></li>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarfstar-099&theme=radical"></a>
 
 
 
