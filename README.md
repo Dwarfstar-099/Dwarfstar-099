@@ -1,7 +1,8 @@
 <!--**Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
-<h1 align="center"> 👋🏻 Hi! I'm Kumar Gourav 👨🏻‍💻 </h1>
+<h1 align="center">  Hi! 👋🏻 I'm Kumar Gourav 👨🏻‍💻 </h1>
 
-<p align="center"><img align ="center "src="https://komarev.com/ghpvc/?username=Dwarfstar-099&"></p>
+<p align="center"><img align ="center "src="https://komarev.com/ghpvc/?username=Dwarfstar-099&label=PROFILE+VIEWS"></p>
+
 
 <p align="center"><img src="https://user-images.githubusercontent.com/78784617/229755213-e70ac748-441a-4b8c-abc8-39ff6e8d8b5b.svg" width ="400">
 </p>
@@ -9,10 +10,10 @@
 <ul>
 <li><h2> About Me : </h2></li>
 <!--**Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
-I'm a Software Engineer based in India who is open about Data Science, Machine Learning and Web Development. 
-Currently I'm learning more about Open Source Development and the communities around it. <br>
-Sometimes, I write blogs on <a href="https://medium.com/@gourav2022">Medium</a> to share about my learning experiences and resources.
-<h4>Fun Fact :</h4> I'm open minded, easy-going and always open for collaborations to build projects.
+I'm a Software Engineer based in India who loves to explore the field of Data Science, Machine Learning and Web Development. </br>
+Currently I'm learning more about Open Source Development and the communities around it. </br>
+Sometimes, I write blogs on <a href="https://medium.com/@gourav2022">Medium</a> to share about my learning experiences and resources. </br>
+<h4>Fun Fact :</h4> I'm open minded, easy-going and always looking for collaborations to solve real-life problems.
 
 <li><h2> Skills & Technologies that I apply :</h2></li>
 <span><img src ="https://user-images.githubusercontent.com/78784617/229757406-8ce071a2-e91e-4f41-a967-dde0ccf019de.svg" width="80px" height="80px">
@@ -44,7 +45,9 @@ width="40px" height="40px"></a> &nbsp&nbsp
 
 <li><h2>GitHub Stats : </h2></li>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Dwarfstar-099&show_icons=true&theme=radical"></a>
-
+ 
+<li><h2> Most Languages used : </h2></li>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarfstar-099"></a>
 
 
 
