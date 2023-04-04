@@ -1,5 +1,5 @@
 <!--**Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
-<h1 align="center">  Hi! 👋🏻 I'm Kumar Gourav 👨🏻‍💻 </h1>
+<marquee direction="right"> <h1 align="center">  Hey there!👋🏻 I'm Kumar Gourav 👨🏻‍💻 </h1></marquee>
 
 <p align="center"><img align ="center "src="https://komarev.com/ghpvc/?username=Dwarfstar-099&label=PROFILE+VIEWS"></p>
 
@@ -10,12 +10,13 @@
 <ul>
 <li><h2> About Me : </h2></li>
 <!--**Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
-I'm a Software Engineer based in India who loves to explore the field of Data Science, Machine Learning and Web Development. </br>
-Currently I'm learning more about Open Source Development and the communities around it. </br>
-Sometimes, I write blogs on <a href="https://medium.com/@gourav2022">Medium</a> to share about my learning experiences and resources. </br>
+1. I'm a Software Engineer based in India who loves to explore the field of Data Science, Machine Learning and Web Development. </br>
+2. Currently,I'm learning more about Open Source Development and the communities around it. </br>
+3. Occasionally, I write blogs on <a href="https://medium.com/@gourav2022">Medium</a> to share about my learning experiences and resources. </br>
+4. Beside all this, I love biking, running, playing table tennis, and traveling to new places.
 <h4>Fun Fact :</h4> I'm open minded, easy-going and always looking for collaborations to solve real-life problems.
 
-<li><h2> Skills & Technologies that I apply :</h2></li>
+<li><h2> Tools & Technologies that I apply :</h2></li>
 <span><img src ="https://user-images.githubusercontent.com/78784617/229757406-8ce071a2-e91e-4f41-a967-dde0ccf019de.svg" width="80px" height="80px">
 <img src ="https://user-images.githubusercontent.com/78784617/229757727-a4e23191-e934-4bb4-8b2d-577febe968f5.svg" width="80px" height="80px">
 <img src ="https://user-images.githubusercontent.com/78784617/229759217-fd300475-698d-4a95-89a0-ffc398ec87d0.svg" width ="80px" height="80px">
@@ -41,7 +42,13 @@ width="40px" height="40px"></a> &nbsp&nbsp
 
 <li><h2>You can support my work here :<h2></li>
 <span><a href="https://www.buymeacoffee.com/kgourav"><img src="https://user-images.githubusercontent.com/78784617/229777757-4d24ef2a-2072-4d30-8e89-6ebc1fb35c56.svg"
- width="150" height=</a></span>
+ width="150" height=</a></span> </br>
+ 
+<li><h2> Thought of the day : </h2></li>
+<blockquote><h3><q>Winners don't do different things, they do things differently</q></h3> </blockquote>
+
+
+
 
 <li><h2>GitHub Stats : </h2></li>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Dwarfstar-099&showicons=true&theme=radical"></a>
