@@ -15,8 +15,9 @@
 1. I'm a Software Engineer based in India who loves to explore the field of Data Science, Machine Learning and Web Development. </br>
 2. Currently, I'm learning more about Open Source Development and the communities around it. </br>
 3. Occasionally, I write blogs on <a href="https://medium.com/@gourav2022">Medium</a> to share about my learning experiences and resources. </br>
-4. <
-5. Beside all this, I love biking, running, playing table tennis, and traveling to new places. <img src="https://user-images.githubusercontent.com/78784617/230180186-cfb2b063-d261-491f-ab67-1b4a3885c10c.gif width="50px" height="50px">
+<span>
+4. &nbsp &nbsp<img src = "https://user-images.githubusercontent.com/78784617/230198076-83e586a2-0f2a-499d-a5c8-49917a6f5558.jpg" width="250px"></span> </br>
+5. Beside all this, I love biking, running, playing table tennis, and traveling to new places.
 
 
 <h4>Fun Fact :</h4> I'm open minded, easy-going and always looking for collaborations to solve real-life problems.
