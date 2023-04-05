@@ -1,3 +1,4 @@
+
 <!--**Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 <marquee direction="right"> <h1 align="center">  Hey there!👋🏻 I'm Kumar Gourav 👨🏻‍💻 </h1></marquee>
 
@@ -51,10 +52,10 @@ width="40px" height="40px"></a> &nbsp&nbsp
 
 
 <li><h2>GitHub Stats : </h2></li>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Dwarfstar-099&showicons=true&theme=radical"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Dwarfstar-099&showicons=true&theme=transparent"></a>
  
 <li><h2> Most Used Languages: </h2></li>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarfstar-099&theme=radical"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarfstar-099&theme=transparent"></a>
 
 
 
