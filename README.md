@@ -8,16 +8,20 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/78784617/229755213-e70ac748-441a-4b8c-abc8-39ff6e8d8b5b.svg" width ="400">
 </p>
 
-<ul>
-<li><h2> About Me : </h2></li>
+
+<h2>🙋🏻‍♂️ About Me : </h2>
 <!--**Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
+
 1. I'm a Software Engineer based in India who loves to explore the field of Data Science, Machine Learning and Web Development. </br>
-2. Currently,I'm learning more about Open Source Development and the communities around it. </br>
+2. Currently, I'm learning more about Open Source Development and the communities around it. </br>
 3. Occasionally, I write blogs on <a href="https://medium.com/@gourav2022">Medium</a> to share about my learning experiences and resources. </br>
-4. Beside all this, I love biking, running, playing table tennis, and traveling to new places.
+4. <
+5. Beside all this, I love biking, running, playing table tennis, and traveling to new places. <img src="https://user-images.githubusercontent.com/78784617/230180186-cfb2b063-d261-491f-ab67-1b4a3885c10c.gif width="50px" height="50px">
+
+
 <h4>Fun Fact :</h4> I'm open minded, easy-going and always looking for collaborations to solve real-life problems.
 
-<li><h2> Tools & Technologies that I apply :</h2></li>
+<h2> ⚒️ Tools & Technologies that I apply :</h2>
 <span><img src ="https://user-images.githubusercontent.com/78784617/229757406-8ce071a2-e91e-4f41-a967-dde0ccf019de.svg" width="80px" height="80px">
 <img src ="https://user-images.githubusercontent.com/78784617/229757727-a4e23191-e934-4bb4-8b2d-577febe968f5.svg" width="80px" height="80px">
 <img src ="https://user-images.githubusercontent.com/78784617/229759217-fd300475-698d-4a95-89a0-ffc398ec87d0.svg" width ="80px" height="80px">
@@ -30,7 +34,7 @@
 <img src= "https://user-images.githubusercontent.com/78784617/229829107-0ed4bdf2-9349-4e3f-ba82-ef78a63491f6.png" weight="80px" height="80px">
 </span>
 
-<li><h2>Connect with me on :</h2></li>
+<h2>🌐 Connect with me on :</h2>
 
 <a href="https://www.linkedin.com/in/k-gourav/"><img src ="https://user-images.githubusercontent.com/78784617/229765486-3364fe55-f45f-4b51-a2bc-b2bc721f8286.svg"
  width="50px" height="40px"></a> &nbsp
@@ -41,20 +45,20 @@ width="40px" height="40px"></a> &nbsp&nbsp
 <a href="https://www.youtube.com/channel/UCgqIoIDUrmtjvmkAcRJFCKw"><img src ="https://user-images.githubusercontent.com/78784617/229769406-508f158b-a39f-437c-9bfc-298fcbb8d5cc.svg" width="40px" height="40px"></a>&nbsp&nbsp
 <a href="https://open.spotify.com/user/tpwn3jir4xjybhpj4ycvbzpqq?si=c6fbd9b81ef84d4f"><img src= "https://user-images.githubusercontent.com/78784617/229773911-4eba06bc-551a-49db-b984-51da3594b6f1.svg" width="40px" height="40px"></a>
 
-<li><h2>You can support my work here :<h2></li>
+<h2>🫱🏼‍🫲🏼 You can support my work here :<h2>
 <span><a href="https://www.buymeacoffee.com/kgourav"><img src="https://user-images.githubusercontent.com/78784617/229777757-4d24ef2a-2072-4d30-8e89-6ebc1fb35c56.svg"
  width="150" height=</a></span> </br>
  
-<li><h2> Thought of the day : </h2></li>
+<h2>💭 Thought of the day : </h2>
 <blockquote><h3><q>Winners don't do different things, they do things differently</q></h3> </blockquote>
 
 
 
 
-<li><h2>GitHub Stats : </h2></li>
+<h2> 📈 GitHub Stats : </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Dwarfstar-099&showicons=true&theme=transparent"></a>
  
-<li><h2> Most Used Languages: </h2></li>
+<h2>🎯 Most Used Languages : </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarfstar-099&theme=transparent"></a>
 
 
