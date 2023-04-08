@@ -48,8 +48,8 @@ width="40px" height="40px"></a> &nbsp&nbsp
 <a href="https://open.spotify.com/user/tpwn3jir4xjybhpj4ycvbzpqq?si=c6fbd9b81ef84d4f"><img src= "https://user-images.githubusercontent.com/78784617/229773911-4eba06bc-551a-49db-b984-51da3594b6f1.svg" width="40px" height="40px"></a>
 
 <h2> 🫱🏼‍🫲🏼 You can support my work here :<h2>
-<span><a href="https://www.buymeacoffee.com/kgourav"><img src="https://user-images.githubusercontent.com/78784617/229777757-4d24ef2a-2072-4d30-8e89-6ebc1fb35c56.svg"
- width="150" height=</a></span> </br>
+&nbsp; <a href="https://www.buymeacoffee.com/kgourav"><img src="https://user-images.githubusercontent.com/78784617/229777757-4d24ef2a-2072-4d30-8e89-6ebc1fb35c56.svg"
+ width="140"></a></br>
  
 <h2> 💭 Thought of the day : </h2>
 <blockquote><h3><q>Winners don't do different things, they do things differently</q></h3> </blockquote>
