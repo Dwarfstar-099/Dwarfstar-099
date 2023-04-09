@@ -59,10 +59,10 @@ width="40px" height="40px"></a> &nbsp&nbsp
 
 
 <h2> 📈 GitHub Stats : </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Dwarfstar-099&showicons=true&theme=transparent"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Dwarfstar-099&showicons=true&theme=transparent">
  
 <h2> 🎯 Most Used Languages : </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarfstar-099&theme=transparent"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarfstar-099&layout=compact&theme=transparent">
 
 
 
