@@ -24,7 +24,7 @@
 
 <h4>Fun Fact :</h4> I'm open minded, easy-going and always looking for collaborations to solve real-world problems.
 
-<h2> ⚒️ Tools & Technologies :</h2>
+<h2> ⚒️ Languages & Technologies :</h2>
 <span><img src ="https://user-images.githubusercontent.com/78784617/229757406-8ce071a2-e91e-4f41-a967-dde0ccf019de.svg" width="60px" height="60px">
 <img src ="https://user-images.githubusercontent.com/78784617/229757727-a4e23191-e934-4bb4-8b2d-577febe968f5.svg" width="60px" height="60px">
 <img src ="https://user-images.githubusercontent.com/78784617/229759217-fd300475-698d-4a95-89a0-ffc398ec87d0.svg" width ="60px" height="60px">
