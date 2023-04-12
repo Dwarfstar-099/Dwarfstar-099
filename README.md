@@ -65,6 +65,8 @@ width="40px" height="40px"></a> &nbsp&nbsp
 <h2> 🎯 Most Used Languages : </h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarfstar-099&layout=compact&theme=transparent">
 
+<h4> ✨ Keep learning! </h4>
+<img src="https://user-images.githubusercontent.com/78784617/231394005-c23d6c03-bffc-47df-81e0-12d4a64b9096.png" width="100px">
 
 
 
