@@ -25,23 +25,23 @@
 <h4>Fun Fact :</h4> I'm open minded, easy-going and always looking for collaborations to solve real-world problems.
 
 <h2> ⚒️ Languages & Technologies :</h2>
-<span><img src ="https://user-images.githubusercontent.com/78784617/229757406-8ce071a2-e91e-4f41-a967-dde0ccf019de.svg" width="60px" height="60px">
-<img src ="https://user-images.githubusercontent.com/78784617/229757727-a4e23191-e934-4bb4-8b2d-577febe968f5.svg" width="60px" height="60px">
-<img src ="https://user-images.githubusercontent.com/78784617/229759217-fd300475-698d-4a95-89a0-ffc398ec87d0.svg" width ="60px" height="60px">
-<img src="https://user-images.githubusercontent.com/78784617/229760536-a45c8a76-5a3b-4d2b-8ff4-a88e2706d619.svg" width="60px" height="60px">
-<img src= "https://user-images.githubusercontent.com/78784617/229764016-f92adbd0-84c3-4af0-b26c-abc4b7721ffc.svg" width="60px" height="60px">
-<img src= "https://user-images.githubusercontent.com/78784617/229829107-0ed4bdf2-9349-4e3f-ba82-ef78a63491f6.png" weight="60px" height="60px">
-<img src= "https://user-images.githubusercontent.com/78784617/229761105-77f7ad6c-4819-4c6b-9f19-850bd661687b.svg" width="60px" height="60px">
-<img src="https://user-images.githubusercontent.com/78784617/229761812-a1ad001b-1c19-4add-a32a-f3b3e1fb3544.svg" width="60px" height="60px">
-<img src= "https://user-images.githubusercontent.com/78784617/229762435-3aa8df21-382d-462e-8041-27e7faadde9c.svg" width="60px" height="60px">
-<img src= "https://user-images.githubusercontent.com/78784617/229763566-ac00e56a-b8ec-4e9f-92c8-b23c95465cfe.svg" width="60px" height="60px">
+<span><img src ="https://user-images.githubusercontent.com/78784617/229757406-8ce071a2-e91e-4f41-a967-dde0ccf019de.svg" width="50px" height="50px">
+<img src ="https://user-images.githubusercontent.com/78784617/229757727-a4e23191-e934-4bb4-8b2d-577febe968f5.svg" width="50px" height="50px">
+<img src ="https://user-images.githubusercontent.com/78784617/229759217-fd300475-698d-4a95-89a0-ffc398ec87d0.svg" width="50px" height="50px">
+<img src="https://user-images.githubusercontent.com/78784617/229760536-a45c8a76-5a3b-4d2b-8ff4-a88e2706d619.svg" width="50px" height="50px">
+<img src= "https://user-images.githubusercontent.com/78784617/229764016-f92adbd0-84c3-4af0-b26c-abc4b7721ffc.svg" width="50px" height="50px">
+<img src= "https://user-images.githubusercontent.com/78784617/229829107-0ed4bdf2-9349-4e3f-ba82-ef78a63491f6.png" width="50px" height="50px">
+<img src= "https://user-images.githubusercontent.com/78784617/229761105-77f7ad6c-4819-4c6b-9f19-850bd661687b.svg" width="50px" height="50px">
+<img src="https://user-images.githubusercontent.com/78784617/229761812-a1ad001b-1c19-4add-a32a-f3b3e1fb3544.svg" width="50px" height="50px">
+<img src= "https://user-images.githubusercontent.com/78784617/229762435-3aa8df21-382d-462e-8041-27e7faadde9c.svg" width="50px" height="50px">
+<img src= "https://user-images.githubusercontent.com/78784617/229763566-ac00e56a-b8ec-4e9f-92c8-b23c95465cfe.svg" width="50px" height="50px">
 
 </span>
 
 <h2> 🌐 Connect with me :</h2>
 
 <a href="https://www.linkedin.com/in/k-gourav/"><img src ="https://user-images.githubusercontent.com/78784617/229765486-3364fe55-f45f-4b51-a2bc-b2bc721f8286.svg"
- width="50px" height="40px"></a> &nbsp
+ width="45px" height="45px"></a> &nbsp
 <a href="https://twitter.com/dwarfstar99"><img src="https://user-images.githubusercontent.com/78784617/229769750-177a71de-d1d1-4d0e-905f-bdd423a48ecd.svg"
 width="40px" height="40px"></a> &nbsp
 <a href="https://medium.com/@gourav2022"><img src="https://user-images.githubusercontent.com/78784617/229768482-62103fde-ec8b-4d4a-9a97-4e8375b89367.png"
