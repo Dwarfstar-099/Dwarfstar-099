@@ -54,7 +54,7 @@ width="40px" height="40px"></a> &nbsp&nbsp
  width="140"></a></br>
  
 <h2> 💭 Tip of the day : </h2>
-<blockquote><q> Never hesitate to ask and share. Be the first to make initiative no matter what gonna happen.</q></blockquote>
+<h3><blockquote><q> Never hesitate to ask and share. Be the first to make initiative no matter what gonna happen.</q></blockquote></h3>
 
 
 
