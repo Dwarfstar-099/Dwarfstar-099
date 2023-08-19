@@ -53,8 +53,8 @@ width="40px" height="40px"></a> &nbsp&nbsp
 &nbsp <a href="https://www.buymeacoffee.com/kgourav"><img src="https://user-images.githubusercontent.com/78784617/229777757-4d24ef2a-2072-4d30-8e89-6ebc1fb35c56.svg"
  width="140"></a></br>
  
-<h2> 💭 Tips of the day : </h2>
-<blockquote><h3><q> Never hesitate to ask and share. Be the first to make initiative no matter what gonna happen.</q></h3> </blockquote>
+<h2> 💭 Tip of the day : </h2>
+<blockquote><q> Never hesitate to ask and share. Be the first to make initiative no matter what gonna happen.</q></blockquote>
 
 
 
