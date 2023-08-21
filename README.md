@@ -4,11 +4,7 @@
   Hey there! <img src="https://user-images.githubusercontent.com/78784617/230737748-5eab6fe8-5815-43fe-b0c5-ff09a7d0b635.gif" width="40px"> I'm Kumar Gourav <img src="https://user-images.githubusercontent.com/78784617/231394005-c23d6c03-bffc-47df-81e0-12d4a64b9096.png" width="100px"></h1>
 
 
-<p align="center"><img align ="center "src="https://github.com/Dwarfstar-099/Dwarfstar-099/assets/78784617/3e938d28-4cd9-4869-84b7-3f638d49d815"></p>
-
-
-<p align="center"><img src="https://user-images.githubusercontent.com/78784617/229755213-e70ac748-441a-4b8c-abc8-39ff6e8d8b5b.svg" width ="400">
-</p>
+<p align="center"><img align ="center "src="https://github.com/Dwarfstar-099/Dwarfstar-099/assets/78784617/fbc53e83-85ca-40c0-b000-06041cdb7352"></p>
 
 
 <h2> 🙋🏻‍♂️ About Me : </h2>
