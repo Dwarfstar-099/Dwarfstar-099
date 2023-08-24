@@ -1,15 +1,14 @@
 
 <!--**Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
-<marquee direction="right"> <h1 align="center">
-  Hey there! <img src="https://user-images.githubusercontent.com/78784617/230737748-5eab6fe8-5815-43fe-b0c5-ff09a7d0b635.gif" width="40px"> I'm Kumar Gourav <img src="https://user-images.githubusercontent.com/78784617/231394005-c23d6c03-bffc-47df-81e0-12d4a64b9096.png" width="100px"></h1>
+
+<h1 align="center"> Hey there! <img src="https://user-images.githubusercontent.com/78784617/230737748-5eab6fe8-5815-43fe-b0c5-ff09a7d0b635.gif" width="40px"> I'm Kumar Gourav <img src="https://user-images.githubusercontent.com/78784617/231394005-c23d6c03-bffc-47df-81e0-12d4a64b9096.png" width="100px"> </h1>
 
 
-<p align="center"><img align ="center "src="https://github.com/Dwarfstar-099/Dwarfstar-099/assets/78784617/fbc53e83-85ca-40c0-b000-06041cdb7352"></p>
+<p align="center"><img align ="center "src="https://github.com/Dwarfstar-099/Dwarfstar-099/assets/78784617/bb7e7f8c-f4b3-4b52-a6bd-b1ec9fee6f01"></p>
+
 
 
 <h2> 🙋🏻‍♂️ About Me : </h2>
-<!--**Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
-
 
 1. I'm a Software Engineer based in India who loves to explore the field of Data Science, Machine Learning and Web Development. </br>
 2. Currently, I'm learning more about Open Source Development and the communities around it. </br>
