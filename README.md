@@ -1,8 +1,8 @@
 
 <!--**Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
-<h1 align="center"> Hey there! <img src="https://user-images.githubusercontent.com/78784617/230737748-5eab6fe8-5815-43fe-b0c5-ff09a7d0b635.gif" width="40px"> I'm Kumar Gourav <img src="https://user-images.githubusercontent.com/78784617/231394005-c23d6c03-bffc-47df-81e0-12d4a64b9096.png" width="100px"> </h1>
-
+<h1 align="center"> Hi, I'm Kumar Gourav <img src="https://user-images.githubusercontent.com/78784617/230737748-5eab6fe8-5815-43fe-b0c5-ff09a7d0b635.gif" width="40px"> 🧑🏻‍💻
+<hr height="0.25em">
 
 <p align="center"><img align ="center "src="https://github.com/Dwarfstar-099/Dwarfstar-099/assets/78784617/621e25d1-9d39-4c9a-ae40-6a3378069965"></p>
 
