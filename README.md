@@ -1,11 +1,15 @@
 
 <!--**Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
+<!-- Intro --!>
 <h1 align="center"> Hi, I'm Kumar Gourav <img src="https://user-images.githubusercontent.com/78784617/230737748-5eab6fe8-5815-43fe-b0c5-ff09a7d0b635.gif" width="40px"> 🧑🏻‍💻
 <br><br>
 
-<p align="center"><img align ="center "src="https://github.com/Dwarfstar-099/Dwarfstar-099/assets/78784617/621e25d1-9d39-4c9a-ae40-6a3378069965"></p>
+<!-- Profile Poster --!>
+<p align="center"><img align ="center "src="https://github.com/Dwarfstar-099/Dwarfstar-099/assets/78784617/efa8d677-45e2-460b-ae2a-1b365c6c4acb"></p>
 
+
+<!-- About Me section --!>
 <h2> 🙋🏻‍♂️ About Me : </h2>
 
 1. I'm a Software Engineer based in India who loves to explore the field of Data Science, Machine Learning and Web Development. </br>
@@ -15,9 +19,9 @@
 4. &nbsp &nbsp<img src = "https://user-images.githubusercontent.com/78784617/230198076-83e586a2-0f2a-499d-a5c8-49917a6f5558.jpg" width="250px"></span> </br>
 5. Beside all this, I love biking, running, playing table tennis, and traveling to new places.
 
-
 <h4>Fun Fact :</h4> I'm open minded, easy-going and always looking for collaborations to solve real-world problems.
 
+<!-- Tech Skills --!>
 <h2> ⚒️ Languages & Technologies :</h2>
 <span><img src ="https://user-images.githubusercontent.com/78784617/229757406-8ce071a2-e91e-4f41-a967-dde0ccf019de.svg" width="50px" height="50px">
 <img src ="https://user-images.githubusercontent.com/78784617/229757727-a4e23191-e934-4bb4-8b2d-577febe968f5.svg" width="50px" height="50px">
@@ -29,9 +33,9 @@
 <img src="https://user-images.githubusercontent.com/78784617/229761812-a1ad001b-1c19-4add-a32a-f3b3e1fb3544.svg" width="50px" height="50px">
 <img src= "https://user-images.githubusercontent.com/78784617/229762435-3aa8df21-382d-462e-8041-27e7faadde9c.svg" width="50px" height="50px">
 <img src= "https://user-images.githubusercontent.com/78784617/229763566-ac00e56a-b8ec-4e9f-92c8-b23c95465cfe.svg" width="50px" height="50px">
-
 </span>
 
+<!-- Social Media Handles --!>
 <h2> 🌐 Connect with me :</h2>
 
 <a href="https://www.linkedin.com/in/gourav-me/"><img src ="https://user-images.githubusercontent.com/78784617/229765486-3364fe55-f45f-4b51-a2bc-b2bc721f8286.svg"
@@ -43,10 +47,14 @@ width="40px" height="40px"></a> &nbsp&nbsp
 <a href="https://www.youtube.com/channel/UCgqIoIDUrmtjvmkAcRJFCKw"><img src ="https://user-images.githubusercontent.com/78784617/229769406-508f158b-a39f-437c-9bfc-298fcbb8d5cc.svg" width="40px" height="40px"></a>&nbsp&nbsp
 <a href="https://open.spotify.com/user/tpwn3jir4xjybhpj4ycvbzpqq?si=c6fbd9b81ef84d4f"><img src= "https://user-images.githubusercontent.com/78784617/229773911-4eba06bc-551a-49db-b984-51da3594b6f1.svg" width="40px" height="40px"></a>
 
+
+<!-- Contribute to my work --!>
 <h2> 🎀 Support my work here :<h2>
 &nbsp <a href="https://www.buymeacoffee.com/kgourav"><img src="https://user-images.githubusercontent.com/78784617/229777757-4d24ef2a-2072-4d30-8e89-6ebc1fb35c56.svg"
  width="140"></a></br>
  
+
+ <!-- Thought --!>
 <h2> 💭 Tip of the day : </h2>
 <h3><blockquote><q> Never hesitate to ask and share. Be the first to make initiative no matter what gonna happen.</q></blockquote></h3>
 
