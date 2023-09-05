@@ -55,8 +55,8 @@ width="40px" height="40px"></a> &nbsp&nbsp
  
 
  <!-- Thought --!>
-<h2> 💭 Tip of the day : </h2>
-<h3><blockquote><q> Never hesitate to ask and share. Be the first to make initiative no matter what gonna happen.</q></blockquote></h3>
+<h2> 💭 Tip of the year : </h2>
+<h3><blockquote><q> Enjoy the process rather than caring about the destination.</q></blockquote></h3>
 
 
 
