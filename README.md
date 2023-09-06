@@ -12,9 +12,9 @@
 <!-- About Me section --!>
 <h2> 🙋🏻‍♂️ About Me : </h2>
 
-1. Software Engineer based in India. </br>
-2. Building impactful products that can actually help people ease their daily life</br>
-3. Sometimes, you can find me on <a href="https://medium.com/@gourav2022">Medium</a> sharing about my learnings</br>
+1. Software Engineer based in India who enjoys both development and designing. </br>
+2. Building impactful products that can actually help people ease their daily life.</br>
+3. Sometimes, you can find me on <a href="https://medium.com/@gourav2022">Medium</a> sharing about my learnings.</br>
 <span>
 4. &nbsp &nbsp<img src = "https://user-images.githubusercontent.com/78784617/230198076-83e586a2-0f2a-499d-a5c8-49917a6f5558.jpg" width="250px"></span> </br>
 5. Besides these, I really do endurance cycling going on long distances.
