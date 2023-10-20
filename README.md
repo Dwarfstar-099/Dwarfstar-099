@@ -62,10 +62,10 @@ width="40px" height="40px"></a> &nbsp&nbsp
 
 
 <h2> 📈 GitHub Stats : </h2>
-<img src="https://github-readme-stats.vercel.app/api?username=Dwarfstar-099&showicons=true&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api?username=k-gourav&showicons=true&theme=transparent">
  
 <h2> 🎯 Most Used Languages : </h2>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dwarfstar-099&layout=compact&theme=transparent">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-gourav&layout=compact&theme=transparent">
 
 
 
