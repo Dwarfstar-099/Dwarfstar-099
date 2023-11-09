@@ -38,7 +38,7 @@
 <!-- Social Media Handles --!>
 <h2> 🌐 Connect with me :</h2>
 
-<a href="https://www.linkedin.com/in/gourav-me/"><img src ="https://user-images.githubusercontent.com/78784617/229765486-3364fe55-f45f-4b51-a2bc-b2bc721f8286.svg"
+<a href="https://www.linkedin.com/in/k-gourav/"><img src ="https://user-images.githubusercontent.com/78784617/229765486-3364fe55-f45f-4b51-a2bc-b2bc721f8286.svg"
  width="45px" height="45px"></a> &nbsp
 <a href="https://twitter.com/dwarfstar99"><img src="https://user-images.githubusercontent.com/78784617/229769750-177a71de-d1d1-4d0e-905f-bdd423a48ecd.svg"
 width="40px" height="40px"></a> &nbsp
