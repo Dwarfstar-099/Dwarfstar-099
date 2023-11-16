@@ -2,7 +2,7 @@
 <!--**Dwarfstar-099/Dwarfstar-099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
 <!-- Intro --!>
-<h1 align="center"> Hi, I'm Kumar Gourav <img src="https://user-images.githubusercontent.com/78784617/230737748-5eab6fe8-5815-43fe-b0c5-ff09a7d0b635.gif" width="40px">👋 👨🏻‍💻</h1> 
+<h1 align="center"> Hi, I'm Kumar Gourav👋 👨🏻‍💻</h1> 
 <br><br>
 
 <!-- Profile Poster --!>
