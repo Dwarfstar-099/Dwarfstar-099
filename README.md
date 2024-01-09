@@ -6,7 +6,8 @@
 <br><br>
 
 <!-- Profile Poster --!>
-<p align="center"><img align ="center" src="https://github.com/k-gourav/k-gourav/assets/78784617/3f567fdf-804d-4b87-8e19-9b527adc8591"></p>
+<p align="center"><img align ="center" src="https://github.com/k-gourav/k-gourav/assets/78784617/80b628cb-88fe-4cae-9f7a-f26da594a112"></p>
+
 
 
 <!-- About Me section --!>
