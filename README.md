@@ -6,7 +6,7 @@
 <br><br>
 
 <!-- Profile Poster --!>
-<p align="center"><img align ="center "src="https://github.com/Dwarfstar-099/Dwarfstar-099/assets/78784617/efa8d677-45e2-460b-ae2a-1b365c6c4acb"></p>
+<p align="center"><img align ="center" src="https://github.com/k-gourav/k-gourav/assets/78784617/3f567fdf-804d-4b87-8e19-9b527adc8591"></p>
 
 
 <!-- About Me section --!>
