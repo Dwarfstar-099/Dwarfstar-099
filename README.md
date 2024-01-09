@@ -3,10 +3,10 @@
 
 <!-- Intro --!>
 <h1 align="center"> Hi, I'm Kumar Gourav👋 👨🏻‍💻</h1> 
-<br><br>
+
 
 <!-- Profile Poster --!>
-<p align="center"><img align ="center" src="https://github.com/k-gourav/k-gourav/assets/78784617/e49cc288-3674-4bc6-99bc-d5459371e39b"></p>
+<img align ="center" src="https://github.com/k-gourav/k-gourav/assets/78784617/e49cc288-3674-4bc6-99bc-d5459371e39b">
 
 
 
