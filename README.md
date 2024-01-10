@@ -41,13 +41,13 @@
 <h2> 🌐 Connect with me :</h2>
 
 <a href="https://www.linkedin.com/in/k-gourav/"><img src ="https://user-images.githubusercontent.com/78784617/229765486-3364fe55-f45f-4b51-a2bc-b2bc721f8286.svg"
- width="45px" height="45px"></a> &nbsp
+ width="35px" height="35px"></a> &nbsp
 <a href="https://twitter.com/dwarfstar99"><img src="https://user-images.githubusercontent.com/78784617/229769750-177a71de-d1d1-4d0e-905f-bdd423a48ecd.svg"
-width="40px" height="40px"></a> &nbsp
+width="30px" height="30px"></a> &nbsp
 <a href="https://medium.com/@gourav2022"><img src="https://user-images.githubusercontent.com/78784617/229768482-62103fde-ec8b-4d4a-9a97-4e8375b89367.png"
-width="40px" height="40px"></a> &nbsp&nbsp
-<a href="https://www.youtube.com/channel/UCgqIoIDUrmtjvmkAcRJFCKw"><img src ="https://user-images.githubusercontent.com/78784617/229769406-508f158b-a39f-437c-9bfc-298fcbb8d5cc.svg" width="40px" height="40px"></a>&nbsp&nbsp
-<a href="https://open.spotify.com/user/tpwn3jir4xjybhpj4ycvbzpqq?si=c6fbd9b81ef84d4f"><img src= "https://user-images.githubusercontent.com/78784617/229773911-4eba06bc-551a-49db-b984-51da3594b6f1.svg" width="40px" height="40px"></a>
+width="30px" height="30px"></a> &nbsp&nbsp
+<a href="https://www.youtube.com/channel/UCgqIoIDUrmtjvmkAcRJFCKw"><img src ="https://user-images.githubusercontent.com/78784617/229769406-508f158b-a39f-437c-9bfc-298fcbb8d5cc.svg" width="30px" height="30px"></a>&nbsp&nbsp
+<a href="https://open.spotify.com/user/tpwn3jir4xjybhpj4ycvbzpqq?si=c6fbd9b81ef84d4f"><img src= "https://user-images.githubusercontent.com/78784617/229773911-4eba06bc-551a-49db-b984-51da3594b6f1.svg" width="30px" height="30px"></a>
 
 
 <!-- Contribute to my work --!>
